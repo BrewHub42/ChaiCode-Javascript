@@ -24,8 +24,6 @@
 				"hiteshchoudharycode.chai-theme"
 			],
 			"settings": {
-				"editor.fontSize": 32,
-				"terminal.integrated.fontSize": 24,
 				"editor.wordWrap": "on"
 			}
 			
