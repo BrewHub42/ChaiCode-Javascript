@@ -27,4 +27,6 @@ console.log(typeof state);
 console.log(typeof null); //object
 console.log(typeof undefined); //undefined
 
+// https://tc39.es/ecma262/
 
+// https://developer.mozilla.org/en-US/
